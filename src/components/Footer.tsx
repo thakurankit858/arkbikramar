@@ -12,7 +12,7 @@ const Footer = () => {
           </p>
           
           <p className="text-sm text-muted-foreground flex items-center gap-2">
-            Made with <Heart className="w-4 h-4 text-destructive fill-destructive" /> in Agra
+            Made by Ankit in Agra
           </p>
         </div>
       </div>
