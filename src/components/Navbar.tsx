@@ -42,7 +42,7 @@ const Navbar = () => {
             onClick={() => scrollToSection('home')}
             className="text-2xl font-bold gradient-text"
           >
-            Ankit.dev
+            Ankit
           </button>
 
           {/* Desktop Navigation */}
