@@ -44,7 +44,7 @@ const Hero = () => {
               <div className="flex items-center gap-2">
                 <div className="w-2 h-2 bg-accent rounded-full animate-pulse" />
                 <MapPin className="w-4 h-4 text-primary" />
-                <span className="text-foreground">Available for Hire • Agra, Noida, Delhi</span>
+                <span className="text-foreground">Available for Hire • Noida, Delhi</span>
               </div>
             </div>
             
@@ -128,7 +128,7 @@ const Hero = () => {
               {/* Floating stats card */}
               <div className="absolute -top-6 right-8 bg-card/80 backdrop-blur-md px-6 py-4 rounded-2xl shadow-xl border border-border z-20 hover-lift">
                 <p className="text-sm font-semibold flex items-center gap-2">
-                  <span className="text-3xl font-bold gradient-text">2+</span>
+                  <span className="text-3xl font-bold gradient-text">4+</span>
                   <span className="text-muted-foreground">Projects<br />Completed</span>
                 </p>
               </div>
