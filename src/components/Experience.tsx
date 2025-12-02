@@ -30,7 +30,7 @@ const Experience = () => {
                     <p className="text-lg text-primary font-semibold">Web AtoZ, Agra</p>
                     <div className="flex items-center gap-2 text-muted-foreground mt-2">
                       <Calendar className="w-4 h-4" />
-                      <span className="text-sm">01 August 2025 – 30 October 2025</span>
+                      <span className="text-sm">01 August 2025 – 31 October 2025</span>
                     </div>
                   </div>
                 </div>
