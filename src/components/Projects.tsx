@@ -77,7 +77,7 @@ const Projects = () => {
         "Clean, professional & business-friendly UI using Tailwind CSS",
         "Full details including price, size, builder details, images",
       ],
-      technologies: ["React.js", "Tailwind CSS"],
+      technologies: ["React.js", "Tailwind CSS", "Vite"],
       githubUrl: "https://github.com/thakurankit858/real-estate.git",
       liveUrl: "#",
     },
